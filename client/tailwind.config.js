@@ -4,11 +4,11 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        montserrat: ['Montserrat', 'sans-serif'],
+        montserrat: ["Montserrat", "sans-serif"],
       },
       colors: {
-        dark: "#000000",
-        light: "#fefefe",
+        dark: "#00000",
+        light: "#f5f5f5",
         primary: "#BC198D",
         primaryDark: "#58E6D9",
       },

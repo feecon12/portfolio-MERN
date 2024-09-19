@@ -36,8 +36,7 @@ const Skills = () => {
               <div>
                   <Certifications/>
               </div>
-          </div>
-          
+          </div>          
       </>
   )
 }
